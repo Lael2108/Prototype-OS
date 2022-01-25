@@ -1,0 +1,1117 @@
+@echo off
+
+::RESIZE WINDOW
+mode con: cols=120 lines=30
+
+::INITIALIZE UTF-8
+chcp 65001
+
+cls
+COLOR 2
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo ------------------------------------------------------OS-----------------------------------------------------------
+echo.
+ping -n 2 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     
+echo                                                     Starting up OS:
+echo.
+echo                                                     *****
+echo                                                     *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.                                                   
+echo                                                     *****
+echo                                                     *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls  
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+echo.
+ping -n 2 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     
+echo                                                     Starting up OS:
+echo.
+echo                                                     *****
+echo                                                     *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.                                                   
+echo                                                     *****
+echo                                                     *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls  
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+echo.
+ping -n 2 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     
+echo                                                     Starting up OS:
+echo.
+echo                                                     *****
+echo                                                     *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.                                                   
+echo                                                     *****
+echo                                                     *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls  
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                         *****
+echo                                                         *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                          *****
+echo                                                          *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                            *****
+echo                                                            *****
+ping -n 1 localhost >nul
+cls
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo.
+echo                                                     Starting up OS:
+echo.
+echo                                                             *****
+echo                                                             *****
+ping -n 1 localhost >nul
+cd..
+cd System 
+ren FNIS.bf FNIS.bat
+start FNIS.bat
